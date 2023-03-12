@@ -1,5 +1,5 @@
 # queue_system_analysis
-Math analysis. \
+Math Analysis. \
 WPF. MVC Code Style. \
 Educational Project. 
 
