@@ -1,0 +1,96 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QS/1.0.0": {
+        "dependencies": {
+          "ScottPlot.WPF": "4.1.21"
+        },
+        "runtime": {
+          "QS.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.0.0": {},
+      "Microsoft.Win32.SystemEvents/4.6.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.0.0"
+        }
+      },
+      "ScottPlot/4.1.21": {
+        "dependencies": {
+          "System.Drawing.Common": "4.6.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ScottPlot.dll": {
+            "assemblyVersion": "4.1.21.0",
+            "fileVersion": "4.1.21.0"
+          }
+        }
+      },
+      "ScottPlot.WPF/4.1.21": {
+        "dependencies": {
+          "ScottPlot": "4.1.21",
+          "System.Drawing.Common": "4.6.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/ScottPlot.WPF.dll": {
+            "assemblyVersion": "4.1.21.0",
+            "fileVersion": "4.1.21.0"
+          }
+        }
+      },
+      "System.Drawing.Common/4.6.1": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.0.0",
+          "Microsoft.Win32.SystemEvents": "4.6.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TsETIgVJb/AKoYfSP+iCxkuly5d3inZjTdx/ItZLk2CxY85v8083OBS3uai84kK3/baLnS5/b5XGs6zR7SuuHQ==",
+      "path": "microsoft.netcore.platforms/3.0.0",
+      "hashPath": "microsoft.netcore.platforms.3.0.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Edg+pFW5C8WJb680Za2kTV8TqUi6Ahl/WldRVoOVJ23UQLpDHFspa+umgFjkWZw24ETsU99Cg+ErZz683M4chg==",
+      "path": "microsoft.win32.systemevents/4.6.0",
+      "hashPath": "microsoft.win32.systemevents.4.6.0.nupkg.sha512"
+    },
+    "ScottPlot/4.1.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RO9CT+m02JQt+45IJl8n/1pto1O3ZcwVbkRXZvewpG99Ua2BcZmEvu8EExqAq/Y4QjfAPfEPxUa+Die4746gxw==",
+      "path": "scottplot/4.1.21",
+      "hashPath": "scottplot.4.1.21.nupkg.sha512"
+    },
+    "ScottPlot.WPF/4.1.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xKwfnU+3YjrenQNY3gtjma/KLUTUXdqW2Wb6alA5fGHHtIYMa2P7vODqTvZQI8Pa+sUXkWkRnVcX9vj0Fg9UWw==",
+      "path": "scottplot.wpf/4.1.21",
+      "hashPath": "scottplot.wpf.4.1.21.nupkg.sha512"
+    },
+    "System.Drawing.Common/4.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TFAADvBEUhdDb2Lteq/BUeG0J1y7a0GyFdpB8yE/eAcbiN0R5MII1nXExXsrtRZiO8C/L9SozL2wGqkRlhiv6A==",
+      "path": "system.drawing.common/4.6.1",
+      "hashPath": "system.drawing.common.4.6.1.nupkg.sha512"
+    }
+  }
+}

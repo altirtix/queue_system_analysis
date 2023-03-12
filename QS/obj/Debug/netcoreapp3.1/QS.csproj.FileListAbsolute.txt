@@ -1,0 +1,47 @@
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\bin\Debug\netcoreapp3.1\QS.exe
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\bin\Debug\netcoreapp3.1\QS.deps.json
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\bin\Debug\netcoreapp3.1\QS.runtimeconfig.json
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\bin\Debug\netcoreapp3.1\QS.runtimeconfig.dev.json
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\bin\Debug\netcoreapp3.1\QS.dll
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\bin\Debug\netcoreapp3.1\QS.pdb
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\bin\Debug\netcoreapp3.1\ScottPlot.dll
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\bin\Debug\netcoreapp3.1\ScottPlot.WPF.dll
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\obj\Debug\netcoreapp3.1\QS.csproj.AssemblyReference.cache
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\obj\Debug\netcoreapp3.1\Views\MainWindowView.g.cs
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\obj\Debug\netcoreapp3.1\QS_MarkupCompile.cache
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\obj\Debug\netcoreapp3.1\QS_MarkupCompile.lref
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\obj\Debug\netcoreapp3.1\App.baml
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\obj\Debug\netcoreapp3.1\Views\MainWindowView.baml
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\obj\Debug\netcoreapp3.1\QS.g.resources
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\obj\Debug\netcoreapp3.1\QS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\obj\Debug\netcoreapp3.1\QS.AssemblyInfoInputs.cache
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\obj\Debug\netcoreapp3.1\QS.AssemblyInfo.cs
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\obj\Debug\netcoreapp3.1\QS.csproj.CoreCompileInputs.cache
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\obj\Debug\netcoreapp3.1\QS.dll
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\obj\Debug\netcoreapp3.1\QS.pdb
+E:\Education\Institute\Lessons\System modelling\Projects\QS\QS\obj\Debug\netcoreapp3.1\QS.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\QS\QS\bin\Debug\netcoreapp3.1\QS.exe
+C:\Users\ASUS\Desktop\QS\QS\bin\Debug\netcoreapp3.1\QS.deps.json
+C:\Users\ASUS\Desktop\QS\QS\bin\Debug\netcoreapp3.1\QS.runtimeconfig.json
+C:\Users\ASUS\Desktop\QS\QS\bin\Debug\netcoreapp3.1\QS.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\QS\QS\bin\Debug\netcoreapp3.1\QS.dll
+C:\Users\ASUS\Desktop\QS\QS\bin\Debug\netcoreapp3.1\QS.pdb
+C:\Users\ASUS\Desktop\QS\QS\bin\Debug\netcoreapp3.1\ScottPlot.dll
+C:\Users\ASUS\Desktop\QS\QS\bin\Debug\netcoreapp3.1\ScottPlot.WPF.dll
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\QS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\Views\MainWindowView.g.cs
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\QS_MarkupCompile.cache
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\QS_MarkupCompile.lref
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\Views\MainWindowView.baml
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\QS.g.resources
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\QS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\QS.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\QS.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\QS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\QS.csproj.CopyComplete
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\QS.dll
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\QS.pdb
+C:\Users\ASUS\Desktop\QS\QS\obj\Debug\netcoreapp3.1\QS.genruntimeconfig.cache
